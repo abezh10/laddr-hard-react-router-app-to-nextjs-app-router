@@ -1,0 +1,4 @@
+// Legacy scaffold for the React Router App to Next.js App Router sample repo.
+export default function AccountPage() {
+  return null;
+}
