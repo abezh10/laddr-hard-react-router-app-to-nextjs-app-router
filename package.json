@@ -1,4 +1,14 @@
 {
-  "name": "hard-react-router-app-to-nextjs-app-router",
-  "private": true
+  "name": "laddr-hard-react-router-app-to-nextjs-app-router",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"Sample repo scaffold\"",
+    "start": "echo \"Sample repo scaffold\""
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^15.0.0"
+  }
 }
